@@ -194,7 +194,7 @@
     var basicBot = {
         version: '1.0',
         status: false,
-        name: '♛ ᙘⵔNᗪ o/ ♛™',
+        name: 'Bond',
         loggedInID: null,
         scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
         cmdLink: '',
@@ -204,7 +204,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: '♛ ᙘⵔNᗪ o/ ♛™ BOT',
+            botName: 'BOND-BOT',
             language: 'portuguese',
             chatLink: 'https://rawgit.com/galaxyREIDELAS/BOT-2018/master/lang/pt-BR.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
@@ -216,7 +216,7 @@
 	    duelDelay: 30,
 	    songCounter: 0,
 	    apocalyse: false,
-	    admins: [12601578],
+	    admins: [20574971],
 	    apoc: ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0"],		
 	    lottery: true,
 	    globCounter: 0,
