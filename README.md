@@ -11,7 +11,7 @@ Email enquiries: [hi[at]benzi[dot]io](mailto:hi@benzi.io)
 Bookmark the following code. To run the bot, click the bookmark.
 
 ```
-javascript:(function(){$.getScript('https://rawgit.com/Indefinid0/Bond-bot/master/basicBot.js');})();
+javascript:(function(){$.getScript('https://rawgit.com/Indefinid0/Bond-bot/master/bondbot.js');})();
 ```
 
 If this does not work, go to [basicBot.js](https://raw.githubusercontent.com/basicBot/source/master/basicBot.js) and copy paste its content into your console (accessible in chrome by pressing F12) when on plug.dj in your community.
